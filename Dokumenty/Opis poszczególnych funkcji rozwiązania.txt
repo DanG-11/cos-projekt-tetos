@@ -1,0 +1,24 @@
+Generalnie aplikacja:
+Człowiek (Użytkownik)
+	Imię
+	Klasę
+	Zainteresowania
+	Profilowe
+	Krótki opis
+
+Funkcja Mapki:
+Guzik:
+	Menu tworzenia tego ogłoszenia
+		Czas
+		Miejsce
+		Krótki opis
+	
+Mapka:
+	Wyświetlane te ogłoszenia
+		Możliwość filtrowania tych ogłoszeń po: Czasie, Klasie wystawiającego i zainteresowaniach wystawiającego
+	Możliwość zgłoszenia się do Ogłoszenia
+
+Ogłoszenie ze strony wystawiającego
+	Możliwośc przeglądania i edytowania go
+	Przyjmowanie i odrzucanie aplikacji do tego ogłoszenia
+
