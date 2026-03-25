@@ -52,6 +52,4 @@ Funkcja typ 2:
 
 Funkcja typ 3:
 
-	Funkcja „Mapki” polega na wyświetlaniu na interaktywnej mapie ogłoszeń tworzonych przez użytkowników, które dotyczą różnych spotkań i aktywności. Użytkownicy mogą przeglądać dostępne wydarzenia, filtrować je według wybranych kryteriów oraz zgłaszać chęć udziału.
-	
-	System umożliwia także dodawanie własnych ogłoszeń i zarządzanie nimi, w tym edycję oraz kontrolowanie zgłoszeń innych użytkowników. Całość działa w prosty i przejrzysty sposób, ułatwiając organizację i udział w wydarzeniach.
+	Formularz tworzenia ogłoszenia umożliwia szybkie dodanie nowego wydarzenia poprzez uzupełnienie podstawowych informacji, takich jak czas, miejsce oraz krótki opis.
