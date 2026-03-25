@@ -28,29 +28,29 @@ Dodatkowe funkcje:
 
 
 
-funkcja główna - mapa:
 
-Funkcja „Mapki” ma na celu zachęcenie uczniów TEB do aktywnego spędzania czasu i organizowania wspólnych spotkań zamiast przebywania wyłącznie w internecie.
-
-Jej głównym elementem jest interaktywna mapa z ogłoszeniami zawierającymi czas, miejsce i krótki opis wydarzenia. Użytkownicy mogą łatwo dodawać nowe ogłoszenia za pomocą prostego formularza.
-
-Dostępne ogłoszenia można filtrować według czasu, klasy oraz zainteresowań autora, a także zgłaszać chęć udziału. Twórca ogłoszenia ma możliwość jego edycji oraz zarządzania zgłoszeniami, czyli ich akceptowania lub odrzucania.
-
-Funkcja wspiera integrację uczniów i ułatwia organizację wspólnych aktywności.
-
-
-
-
-Funkcja „Mapki” opiera się na interaktywnej mapie, na której wyświetlane są ogłoszenia w formie punktów przypisanych do konkretnych lokalizacji. Każdy punkt reprezentuje wydarzenie i po kliknięciu pokazuje jego szczegóły, takie jak czas, miejsce i krótki opis.
-
-Użytkownik może filtrować widoczne ogłoszenia według wybranych kryteriów, np. czasu, klasy autora lub jego zainteresowań, co pozwala szybciej znaleźć odpowiednie wydarzenia.
-
-Dodawanie ogłoszenia odbywa się poprzez formularz, w którym podaje się podstawowe informacje o spotkaniu. Z kolei inni użytkownicy mogą zgłosić chęć udziału jednym kliknięciem, a autor ogłoszenia ma możliwość zarządzania zgłoszeniami.
+Funkcja typ 1:
+	Funkcja „Mapki” ma na celu zachęcenie uczniów TEB do aktywnego spędzania czasu i organizowania wspólnych spotkań zamiast przebywania wyłącznie w internecie.
+	
+	Jej głównym elementem jest interaktywna mapa z ogłoszeniami zawierającymi czas, miejsce i krótki opis wydarzenia. Użytkownicy mogą łatwo dodawać nowe ogłoszenia za pomocą prostego formularza.
+	
+	Dostępne ogłoszenia można filtrować według czasu, klasy oraz zainteresowań autora, a także zgłaszać chęć udziału. Twórca ogłoszenia ma możliwość jego edycji oraz zarządzania zgłoszeniami, czyli ich akceptowania lub odrzucania.
+	
+	Funkcja wspiera integrację uczniów i ułatwia organizację wspólnych aktywności.
 
 
 
+Funkcja typ 2:
+	Funkcja „Mapki” opiera się na interaktywnej mapie, na której wyświetlane są ogłoszenia w formie punktów przypisanych do konkretnych lokalizacji. Każdy punkt reprezentuje wydarzenie i po kliknięciu pokazuje jego szczegóły, takie jak czas, miejsce i krótki opis.
+	
+	Użytkownik może filtrować widoczne ogłoszenia według wybranych kryteriów, np. czasu, klasy autora lub jego zainteresowań, co pozwala szybciej znaleźć odpowiednie wydarzenia.
+	
+	Dodawanie ogłoszenia odbywa się poprzez formularz, w którym podaje się podstawowe informacje o spotkaniu. Z kolei inni użytkownicy mogą zgłosić chęć udziału jednym kliknięciem, a autor ogłoszenia ma możliwość zarządzania zgłoszeniami.
 
 
-Funkcja „Mapki” polega na wyświetlaniu na interaktywnej mapie ogłoszeń tworzonych przez użytkowników, które dotyczą różnych spotkań i aktywności. Użytkownicy mogą przeglądać dostępne wydarzenia, filtrować je według wybranych kryteriów oraz zgłaszać chęć udziału.
 
-System umożliwia także dodawanie własnych ogłoszeń i zarządzanie nimi, w tym edycję oraz kontrolowanie zgłoszeń innych użytkowników. Całość działa w prosty i przejrzysty sposób, ułatwiając organizację i udział w wydarzeniach.
+
+Funkcja typ 3:
+	Funkcja „Mapki” polega na wyświetlaniu na interaktywnej mapie ogłoszeń tworzonych przez użytkowników, które dotyczą różnych spotkań i aktywności. Użytkownicy mogą przeglądać dostępne wydarzenia, filtrować je według wybranych kryteriów oraz zgłaszać chęć udziału.
+	
+	System umożliwia także dodawanie własnych ogłoszeń i zarządzanie nimi, w tym edycję oraz kontrolowanie zgłoszeń innych użytkowników. Całość działa w prosty i przejrzysty sposób, ułatwiając organizację i udział w wydarzeniach.
