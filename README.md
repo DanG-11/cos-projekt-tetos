@@ -35,9 +35,7 @@ Funkcja typ 1:
 	
 	Jej głównym elementem jest interaktywna mapa z ogłoszeniami zawierającymi czas, miejsce i krótki opis wydarzenia. Użytkownicy mogą łatwo dodawać nowe ogłoszenia za pomocą prostego formularza.
 	
-	Dostępne ogłoszenia można filtrować według czasu, klasy oraz zainteresowań autora, a także zgłaszać chęć udziału. Twórca ogłoszenia ma możliwość jego edycji oraz zarządzania zgłoszeniami, czyli ich akceptowania lub odrzucania.
-	
-	Funkcja wspiera integrację uczniów i ułatwia organizację wspólnych aktywności.
+	Dostępne ogłoszenia można filtrować według czasu, klasy oraz zainteresowań autora, a także zgłaszać chęć udziału. Twórca ogłoszenia ma możliwość akceptowania lub odrzucania zgłoszeń.
 
 
 
