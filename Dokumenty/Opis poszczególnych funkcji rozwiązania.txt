@@ -6,19 +6,48 @@ Człowiek (Użytkownik)
 	Profilowe
 	Krótki opis
 
-Funkcja Mapki:
-Guzik:
-	Menu tworzenia tego ogłoszenia
-		Czas
-		Miejsce
-		Krótki opis
-	
-Mapka:
-	Wyświetlane te ogłoszenia
-		Możliwość filtrowania tych ogłoszeń po: Czasie, Klasie wystawiającego i zainteresowaniach wystawiającego
-	Możliwość zgłoszenia się do Ogłoszenia
 
-Ogłoszenie ze strony wystawiającego
-	Możliwośc przeglądania i edytowania go
-	Przyjmowanie i odrzucanie aplikacji do tego ogłoszenia
+
+Funkcja Mapki:
+	Funkcja: Ma służyć do zachęcania uczniów tebu do aktywnego i społecznego spędzania czasu wspólnie, zamiast siedzieć w internetach
+	Guzik:
+		Menu tworzenia tego ogłoszenia
+			Czas
+			Miejsce
+			Krótki opis
+	
+	Mapka:
+		Wyświetlane te ogłoszenia
+			Możliwość filtrowania tych ogłoszeń po: Czasie, Klasie wystawiającego i zainteresowaniach wystawiającego
+		Możliwość zgłoszenia się do Ogłoszenia
+
+	Ogłoszenie ze strony wystawiającego
+		Możliwośc przeglądania i edytowania go
+		Przyjmowanie i odrzucanie aplikacji do tego ogłoszenia
+
+
+
+Funkcja Kalendarz Wydarzeń:
+	Funkcja: Integracja społeczności szkolnej
+	Samorząd będze tworzył i wymyślał różne wydarzenia, na które będzie można przyjść, ich celem jest integracja szkolnej społeczności.
+	Kalendarz:
+		Nazwa wydarzenia
+		Data
+		Miejsce
+		Liczba osób zainteresowanych
+		Opis
+
+
+
+Funkcja Kontakt z samorządem:
+	Wyślij pytanie do samorządu
+	Stwórz projekt do samorządu:
+		Tworzenie publicznych projetków do zrealizowania przez samorząd, poddawanie ich głosowaniu, komentowaniu itp.
+		funkcja: Zwiększenie integracji, sprawczości i poczucia obywatelskiego obowiązku wśród tebowskiej społeczności
+
+	Sprawdź skład samorządu
+	Lista dokonań samorządu
+	
+
+	
 
