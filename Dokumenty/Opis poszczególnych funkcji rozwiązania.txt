@@ -40,7 +40,10 @@ Funkcja Kalendarz Wydarzeń:
 
 
 Funkcja Kontakt z samorządem:
-	Wyślij pytanie do samorządu
+	Wyślij pytanie do samorządu:
+		Możliwość skontaktowania się z samorządem.
+		funkcja: Zwiększenie poczucia 
+
 	Stwórz projekt do samorządu:
 		Tworzenie publicznych projetków do zrealizowania przez samorząd, poddawanie ich głosowaniu, komentowaniu itp.
 		funkcja: Zwiększenie integracji, sprawczości i poczucia obywatelskiego obowiązku wśród tebowskiej społeczności
