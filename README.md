@@ -57,3 +57,7 @@ Funkcja formularza tworzenia ogłoszenia:
 Funkcja kalendarza wydarzeń:
 
 	Kalendarz wydarzeń pokazuje wydarzenia szkolne, takie jak inicjatywy organizowane przez samorząd uczniowski czy inne oficjalne aktywności. Umożliwia łatwe przeglądanie aktywności szkolnych oraz zgłaszanie się do udziału w nich.
+
+Funkcja kontaktu z samorządem:
+
+	Funkcja kontaktu z samorządem pozwala na łatwy kontakt z przedstawicielami uczniów. Użytkownicy mogą sprawdzać kadrę samorządu, jego działania i projekty, zadawać pytania oraz proponować własne inicjatywy szkolne, co ułatwia aktywny udział w życiu szkoły.
