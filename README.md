@@ -29,7 +29,7 @@ Dodatkowe funkcje:
 
 
 
-Funkcja typ 1:
+Funkcja ogólnikowa mapki:
 
 	Funkcja „Mapki” ma na celu zachęcenie uczniów TEB do aktywnego spędzania czasu i organizowania wspólnych spotkań zamiast przebywania wyłącznie w internecie.
 	
@@ -39,7 +39,7 @@ Funkcja typ 1:
 
 
 
-Funkcja typ 2:
+Funkcja szczegółowa mapki:
 
 	Funkcja „Mapki” opiera się na interaktywnej mapie, na której wyświetlane są ogłoszenia w formie punktów przypisanych do konkretnych lokalizacji. Każdy punkt reprezentuje wydarzenie i po kliknięciu pokazuje jego szczegóły, takie jak czas, miejsce i krótki opis.
 	
@@ -50,6 +50,10 @@ Funkcja typ 2:
 
 
 
-Funkcja typ 3:
+Funkcja formularza tworzenia ogłoszenia:
 
 	Formularz tworzenia ogłoszenia umożliwia szybkie dodanie nowego wydarzenia poprzez uzupełnienie podstawowych informacji, takich jak czas, miejsce oraz krótki opis.
+
+Funkcja kalendarza wydarzeń:
+
+	Kalendarz wydarzeń pokazuje wydarzenia szkolne, takie jak inicjatywy organizowane przez samorząd uczniowski czy inne oficjalne aktywności. Umożliwia łatwe przeglądanie aktywności szkolnych oraz zgłaszanie się do udziału w nich.
